@@ -11,3 +11,6 @@ dev又修改了
 bug修改好了
 stash测试
 dev stash 测试
+dev stash 测试
+dev stash master测试
+master stash 合并到dev
