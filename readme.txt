@@ -14,3 +14,4 @@ dev stash 测试
 dev stash 测试
 dev stash master测试
 master stash 合并到dev
+stash apply测试
